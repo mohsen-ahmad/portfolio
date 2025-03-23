@@ -54,30 +54,7 @@ const Experience = () => {
 
 
             </div>
-            <div className="left-section">
-                <div>
-                <h3>3-Qr Generator</h3>
-                <span>Effective communication, leadership, and problem-solving skills for collaborating with teams
-                    and stakeholders. Prioritize the customer, empathize with their challenges, and translate that
-                    understanding into actionable improvements
-                   </span>
-                   <span className="frame-work"> *Development:React js</span>
-                </div>
-                <div className="company">
-                    <div>
-                    <div className="date">
-                    <div>01/2025 </div> 
-                    <div>to</div>
-                     <div>current</div>
-                    </div>
-           
-                <span> Logic,syria,Remote</span>
-                </div>
-                    </div>
-     
-
-
-            </div>
+    
             
       
 
