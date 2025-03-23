@@ -8,7 +8,7 @@ const Footer = () => {
     <div className="footer" id="contact">
       <div className="contact">
       <MdEmail />
-      <span>mohsnahmad@gmail.com</span>
+      <span>mohsenahmadwork@gmail.com</span>
       </div>
       <div className="contact">
       <FaWhatsapp />
